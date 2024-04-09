@@ -1,0 +1,18 @@
+@import "./variable";
+@import './mixins';
+@import './_base.scss';
+
+@import './components/header';
+@import './components/hero-slider';
+@import './components/footer';
+@import './components/button';
+@import './components/section';
+@import './components/policy';
+@import './components/product-card';
+@import './components/catalog';
+@import './components/product-detail';
+@import './components/custome-checkbox';
+@import './components/product-view-modal';
+@import './components/cart';
+
+
